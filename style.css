@@ -1,0 +1,38 @@
+ .header
+{
+    font-size: 30px;
+    font-family: cursive;
+    width:100%;
+    margin: 0;
+    font-weight: bolder;
+}
+.note
+{
+    font-size: 17px;
+    font-family: cursive;
+    font-weight: bolder;
+    color: black;
+}
+body
+{
+background-size: cover;
+}
+.speed
+{
+    float: left;
+}
+.shut_up_puppy,.shut_up_puppy1
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#button1,#button2
+{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: cursive;
+}
+.volume
+{
+    float:right;
+}
